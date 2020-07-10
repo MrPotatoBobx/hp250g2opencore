@@ -66,8 +66,8 @@ If your willing to use this remember to  upgrade ram and upgrade to an ssd(it wi
 
 ## Screenshots:
 
-![](/home/amir/Downloads/hp250efi/screenshots/catilina.png)
+![](/screenshots/catilina.png)
 
-![](/home/amir/Downloads/hp250efi/screenshots/mojave.png)
+![](/screenshots/mojave.png)
 
-![](/home/amir/Downloads/hp250efi/screenshots/highsierra.png)
+![](/screenshots/highsierra.png)
