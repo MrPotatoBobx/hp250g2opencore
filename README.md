@@ -2,7 +2,7 @@
 
 ## Specs
 
-- CPU: CPU: Intel Core i3-3110M CPU 2.40 Ghz 
+- CPU: Intel Core i3-3110M CPU 2.40 Ghz 
 
 - GPU: Intel HD Graphics 4000  
 
