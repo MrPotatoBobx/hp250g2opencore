@@ -23,7 +23,7 @@
 **Opencore 5.9**
 
 **Tested macos versions:** Catilina, mojave, high sierra
-
+### NOTE: will upgrade it to 0.60 when i have time(i am very busy these times)
 ## What works
 
 - [x] GPU
